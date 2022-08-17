@@ -1,0 +1,222 @@
+INFO    2022-08-11 10:05:12,673D:\test_msg\api_ui_test\logs\info-2022-08-11-10.log:run.py:7 
+        杜甫-------------------------------------------------登高
+        The wind was swift and high, and the apes crowed very sad, and the birds were circling in the white sand of the white sand.
+        The endless trees rustle the fallen leaves, the Yangtze river is not expected to roll in the Pentium.
+        Sad to Li autumn scenery, the perennial wanderer, life in the disease ridden today alone on the high platform.
+        After going through hardships and bitter hatred, the white hair was full of hair, and the waning of the wine glass cup was suspended.
+        
+        2102-4131
+
+        开始执行api_ui_test项目...
+        
+        
+INFO    2022-08-11 10:05:31,616D:\test_msg\api_ui_test\logs\info-2022-08-11-10.log:run.py:7 
+        杜甫-------------------------------------------------登高
+        The wind was swift and high, and the apes crowed very sad, and the birds were circling in the white sand of the white sand.
+        The endless trees rustle the fallen leaves, the Yangtze river is not expected to roll in the Pentium.
+        Sad to Li autumn scenery, the perennial wanderer, life in the disease ridden today alone on the high platform.
+        After going through hardships and bitter hatred, the white hair was full of hair, and the waning of the wine glass cup was suspended.
+        
+        2102-4131
+
+        开始执行api_ui_test项目...
+        
+        
+INFO    2022-08-11 10:05:46,351D:\test_msg\api_ui_test\logs\info-2022-08-11-10.log:run.py:7 
+        杜甫-------------------------------------------------登高
+        The wind was swift and high, and the apes crowed very sad, and the birds were circling in the white sand of the white sand.
+        The endless trees rustle the fallen leaves, the Yangtze river is not expected to roll in the Pentium.
+        Sad to Li autumn scenery, the perennial wanderer, life in the disease ridden today alone on the high platform.
+        After going through hardships and bitter hatred, the white hair was full of hair, and the waning of the wine glass cup was suspended.
+        
+        2102-4131
+
+        开始执行api_ui_test项目...
+        
+        
+INFO    2022-08-11 10:05:55,606D:\test_msg\api_ui_test\logs\info-2022-08-11-10.log:run.py:7 
+        杜甫-------------------------------------------------登高
+        The wind was swift and high, and the apes crowed very sad, and the birds were circling in the white sand of the white sand.
+        The endless trees rustle the fallen leaves, the Yangtze river is not expected to roll in the Pentium.
+        Sad to Li autumn scenery, the perennial wanderer, life in the disease ridden today alone on the high platform.
+        After going through hardships and bitter hatred, the white hair was full of hair, and the waning of the wine glass cup was suspended.
+        
+        2102-4131
+
+        开始执行api_ui_test项目...
+        
+        
+INFO    2022-08-11 10:06:53,453D:\test_msg\api_ui_test\logs\info-2022-08-11-10.log:run.py:7 
+        杜甫-------------------------------------------------登高
+        The wind was swift and high, and the apes crowed very sad, and the birds were circling in the white sand of the white sand.
+        The endless trees rustle the fallen leaves, the Yangtze river is not expected to roll in the Pentium.
+        Sad to Li autumn scenery, the perennial wanderer, life in the disease ridden today alone on the high platform.
+        After going through hardships and bitter hatred, the white hair was full of hair, and the waning of the wine glass cup was suspended.
+        
+        2102-4131
+
+        开始执行api_ui_test项目...
+        
+        
+INFO    2022-08-11 10:13:06,998D:\test_msg\api_ui_test\logs\info-2022-08-11-10.log:run.py:7 
+        杜甫-------------------------------------------------登高
+        The wind was swift and high, and the apes crowed very sad, and the birds were circling in the white sand of the white sand.
+        The endless trees rustle the fallen leaves, the Yangtze river is not expected to roll in the Pentium.
+        Sad to Li autumn scenery, the perennial wanderer, life in the disease ridden today alone on the high platform.
+        After going through hardships and bitter hatred, the white hair was full of hair, and the waning of the wine glass cup was suspended.
+        
+        2102-4131
+
+        开始执行api_ui_test项目...
+        
+        
+INFO    2022-08-11 10:20:30,223D:\test_msg\api_ui_test\logs\info-2022-08-11-10.log:run.py:7 
+        杜甫-------------------------------------------------登高
+        The wind was swift and high, and the apes crowed very sad, and the birds were circling in the white sand of the white sand.
+        The endless trees rustle the fallen leaves, the Yangtze river is not expected to roll in the Pentium.
+        Sad to Li autumn scenery, the perennial wanderer, life in the disease ridden today alone on the high platform.
+        After going through hardships and bitter hatred, the white hair was full of hair, and the waning of the wine glass cup was suspended.
+        
+        2102-4131
+
+        开始执行api_ui_test项目...
+        
+        
+INFO    2022-08-11 10:20:30,621D:\test_msg\api_ui_test\logs\info-2022-08-11-10.log:requests_utils.py:21 正在发送get请求，请求地址：http://ul-wallet.funstars.com.cn/bonusRecords/balance/0x32320115173e865Db96e52e0ece5Bf791deaEb75/0xb304487ac5d6ba6e56429c967faf4989c20599aa， 请求参数None
+INFO    2022-08-11 10:20:30,711D:\test_msg\api_ui_test\logs\info-2022-08-11-10.log:requests_utils.py:21 正在发送get请求，请求地址：https://web3.funstars.com.cn/api/address/0xb304487ac5d6ba6e56429c967faf4989c20599aa/1/all， 请求参数None
+INFO    2022-08-11 10:20:30,871D:\test_msg\api_ui_test\logs\info-2022-08-11-10.log:test_lml.py:33 游览器查询余额2247999.611625，链查询余额2247999.611625
+INFO    2022-08-11 10:20:30,871D:\test_msg\api_ui_test\logs\info-2022-08-11-10.log:requests_utils.py:21 正在发送get请求，请求地址：http://ul-wallet.funstars.com.cn/bonusRecords/balance/0x32320115173e865Db96e52e0ece5Bf791deaEb75/0x20511bfddb061014ca8839935580c31bdd111c30， 请求参数None
+INFO    2022-08-11 10:20:30,931D:\test_msg\api_ui_test\logs\info-2022-08-11-10.log:requests_utils.py:21 正在发送get请求，请求地址：https://web3.funstars.com.cn/api/address/0x20511bfddb061014ca8839935580c31bdd111c30/1/all， 请求参数None
+INFO    2022-08-11 10:20:31,311D:\test_msg\api_ui_test\logs\info-2022-08-11-10.log:test_lml.py:33 游览器查询余额807683130.458870，链查询余额807683130.458870
+INFO    2022-08-11 10:22:49,863D:\test_msg\api_ui_test\logs\info-2022-08-11-10.log:run.py:7 
+        杜甫-------------------------------------------------登高
+        The wind was swift and high, and the apes crowed very sad, and the birds were circling in the white sand of the white sand.
+        The endless trees rustle the fallen leaves, the Yangtze river is not expected to roll in the Pentium.
+        Sad to Li autumn scenery, the perennial wanderer, life in the disease ridden today alone on the high platform.
+        After going through hardships and bitter hatred, the white hair was full of hair, and the waning of the wine glass cup was suspended.
+        
+        2102-4131
+
+        开始执行api_ui_test项目...
+        
+        
+INFO    2022-08-11 10:22:50,221D:\test_msg\api_ui_test\logs\info-2022-08-11-10.log:requests_utils.py:21 正在发送get请求，请求地址：http://ul-wallet.funstars.com.cn/bonusRecords/balance/0x32320115173e865Db96e52e0ece5Bf791deaEb75/0xb304487ac5d6ba6e56429c967faf4989c20599aa， 请求参数None
+INFO    2022-08-11 10:22:50,281D:\test_msg\api_ui_test\logs\info-2022-08-11-10.log:requests_utils.py:21 正在发送get请求，请求地址：https://web3.funstars.com.cn/api/address/0xb304487ac5d6ba6e56429c967faf4989c20599aa/1/all， 请求参数None
+INFO    2022-08-11 10:22:50,426D:\test_msg\api_ui_test\logs\info-2022-08-11-10.log:test_lml.py:33 游览器查询余额2247999.611625，链查询余额2247999.611625
+INFO    2022-08-11 10:22:50,428D:\test_msg\api_ui_test\logs\info-2022-08-11-10.log:requests_utils.py:21 正在发送get请求，请求地址：http://ul-wallet.funstars.com.cn/bonusRecords/balance/0x32320115173e865Db96e52e0ece5Bf791deaEb75/0x20511bfddb061014ca8839935580c31bdd111c30， 请求参数None
+INFO    2022-08-11 10:22:50,497D:\test_msg\api_ui_test\logs\info-2022-08-11-10.log:requests_utils.py:21 正在发送get请求，请求地址：https://web3.funstars.com.cn/api/address/0x20511bfddb061014ca8839935580c31bdd111c30/1/all， 请求参数None
+INFO    2022-08-11 10:22:50,872D:\test_msg\api_ui_test\logs\info-2022-08-11-10.log:test_lml.py:33 游览器查询余额807683130.458870，链查询余额807683130.458870
+INFO    2022-08-11 10:23:53,232D:\test_msg\api_ui_test\logs\info-2022-08-11-10.log:run.py:7 
+        杜甫-------------------------------------------------登高
+        The wind was swift and high, and the apes crowed very sad, and the birds were circling in the white sand of the white sand.
+        The endless trees rustle the fallen leaves, the Yangtze river is not expected to roll in the Pentium.
+        Sad to Li autumn scenery, the perennial wanderer, life in the disease ridden today alone on the high platform.
+        After going through hardships and bitter hatred, the white hair was full of hair, and the waning of the wine glass cup was suspended.
+        
+        2102-4131
+
+        开始执行api_ui_test项目...
+        
+        
+INFO    2022-08-11 10:24:07,529D:\test_msg\api_ui_test\logs\info-2022-08-11-10.log:run.py:7 
+        杜甫-------------------------------------------------登高
+        The wind was swift and high, and the apes crowed very sad, and the birds were circling in the white sand of the white sand.
+        The endless trees rustle the fallen leaves, the Yangtze river is not expected to roll in the Pentium.
+        Sad to Li autumn scenery, the perennial wanderer, life in the disease ridden today alone on the high platform.
+        After going through hardships and bitter hatred, the white hair was full of hair, and the waning of the wine glass cup was suspended.
+        
+        2102-4131
+
+        开始执行api_ui_test项目...
+        
+        
+INFO    2022-08-11 10:24:10,466D:\test_msg\api_ui_test\logs\info-2022-08-11-10.log:run.py:7 
+        杜甫-------------------------------------------------登高
+        The wind was swift and high, and the apes crowed very sad, and the birds were circling in the white sand of the white sand.
+        The endless trees rustle the fallen leaves, the Yangtze river is not expected to roll in the Pentium.
+        Sad to Li autumn scenery, the perennial wanderer, life in the disease ridden today alone on the high platform.
+        After going through hardships and bitter hatred, the white hair was full of hair, and the waning of the wine glass cup was suspended.
+        
+        2102-4131
+
+        开始执行api_ui_test项目...
+        
+        
+INFO    2022-08-11 10:24:10,895D:\test_msg\api_ui_test\logs\info-2022-08-11-10.log:requests_utils.py:21 正在发送get请求，请求地址：http://ul-wallet.funstars.com.cn/bonusRecords/balance/0x32320115173e865Db96e52e0ece5Bf791deaEb75/0xb304487ac5d6ba6e56429c967faf4989c20599aa， 请求参数None
+INFO    2022-08-11 10:24:10,985D:\test_msg\api_ui_test\logs\info-2022-08-11-10.log:requests_utils.py:21 正在发送get请求，请求地址：https://web3.funstars.com.cn/api/address/0xb304487ac5d6ba6e56429c967faf4989c20599aa/1/all， 请求参数None
+INFO    2022-08-11 10:24:11,125D:\test_msg\api_ui_test\logs\info-2022-08-11-10.log:test_lml.py:33 游览器查询余额2247999.611625，链查询余额2247999.611625
+INFO    2022-08-11 10:24:11,125D:\test_msg\api_ui_test\logs\info-2022-08-11-10.log:requests_utils.py:21 正在发送get请求，请求地址：http://ul-wallet.funstars.com.cn/bonusRecords/balance/0x32320115173e865Db96e52e0ece5Bf791deaEb75/0x20511bfddb061014ca8839935580c31bdd111c30， 请求参数None
+INFO    2022-08-11 10:24:11,195D:\test_msg\api_ui_test\logs\info-2022-08-11-10.log:requests_utils.py:21 正在发送get请求，请求地址：https://web3.funstars.com.cn/api/address/0x20511bfddb061014ca8839935580c31bdd111c30/1/all， 请求参数None
+INFO    2022-08-11 10:24:11,557D:\test_msg\api_ui_test\logs\info-2022-08-11-10.log:test_lml.py:33 游览器查询余额807683130.458870，链查询余额807683130.458870
+INFO    2022-08-11 10:24:34,056D:\test_msg\api_ui_test\logs\info-2022-08-11-10.log:run.py:7 
+        杜甫-------------------------------------------------登高
+        The wind was swift and high, and the apes crowed very sad, and the birds were circling in the white sand of the white sand.
+        The endless trees rustle the fallen leaves, the Yangtze river is not expected to roll in the Pentium.
+        Sad to Li autumn scenery, the perennial wanderer, life in the disease ridden today alone on the high platform.
+        After going through hardships and bitter hatred, the white hair was full of hair, and the waning of the wine glass cup was suspended.
+        
+        2102-4131
+
+        开始执行api_ui_test项目...
+        
+        
+INFO    2022-08-11 10:24:34,395D:\test_msg\api_ui_test\logs\info-2022-08-11-10.log:requests_utils.py:21 正在发送get请求，请求地址：http://ul-wallet.funstars.com.cn/bonusRecords/balance/0x32320115173e865Db96e52e0ece5Bf791deaEb75/0xb304487ac5d6ba6e56429c967faf4989c20599aa， 请求参数None
+INFO    2022-08-11 10:24:34,480D:\test_msg\api_ui_test\logs\info-2022-08-11-10.log:requests_utils.py:21 正在发送get请求，请求地址：https://web3.funstars.com.cn/api/address/0xb304487ac5d6ba6e56429c967faf4989c20599aa/1/all， 请求参数None
+INFO    2022-08-11 10:24:34,630D:\test_msg\api_ui_test\logs\info-2022-08-11-10.log:test_lml.py:33 游览器查询余额2247999.611625，链查询余额2247999.611625
+INFO    2022-08-11 10:24:34,630D:\test_msg\api_ui_test\logs\info-2022-08-11-10.log:requests_utils.py:21 正在发送get请求，请求地址：http://ul-wallet.funstars.com.cn/bonusRecords/balance/0x32320115173e865Db96e52e0ece5Bf791deaEb75/0x20511bfddb061014ca8839935580c31bdd111c30， 请求参数None
+INFO    2022-08-11 10:24:34,680D:\test_msg\api_ui_test\logs\info-2022-08-11-10.log:requests_utils.py:21 正在发送get请求，请求地址：https://web3.funstars.com.cn/api/address/0x20511bfddb061014ca8839935580c31bdd111c30/1/all， 请求参数None
+INFO    2022-08-11 10:24:35,040D:\test_msg\api_ui_test\logs\info-2022-08-11-10.log:test_lml.py:33 游览器查询余额807683130.458870，链查询余额807683130.458870
+INFO    2022-08-11 10:25:46,583D:\test_msg\api_ui_test\logs\info-2022-08-11-10.log:run.py:7 
+        杜甫-------------------------------------------------登高
+        The wind was swift and high, and the apes crowed very sad, and the birds were circling in the white sand of the white sand.
+        The endless trees rustle the fallen leaves, the Yangtze river is not expected to roll in the Pentium.
+        Sad to Li autumn scenery, the perennial wanderer, life in the disease ridden today alone on the high platform.
+        After going through hardships and bitter hatred, the white hair was full of hair, and the waning of the wine glass cup was suspended.
+        
+        2102-4131
+
+        开始执行api_ui_test项目...
+        
+        
+INFO    2022-08-11 10:25:46,923D:\test_msg\api_ui_test\logs\info-2022-08-11-10.log:requests_utils.py:21 正在发送get请求，请求地址：http://ul-wallet.funstars.com.cn/bonusRecords/balance/0x32320115173e865Db96e52e0ece5Bf791deaEb75/0xb304487ac5d6ba6e56429c967faf4989c20599aa， 请求参数None
+INFO    2022-08-11 10:25:47,003D:\test_msg\api_ui_test\logs\info-2022-08-11-10.log:requests_utils.py:21 正在发送get请求，请求地址：https://web3.funstars.com.cn/api/address/0xb304487ac5d6ba6e56429c967faf4989c20599aa/1/all， 请求参数None
+INFO    2022-08-11 10:25:47,153D:\test_msg\api_ui_test\logs\info-2022-08-11-10.log:test_lml.py:33 游览器查询余额2247999.611625，链查询余额2247999.611625
+INFO    2022-08-11 10:25:47,153D:\test_msg\api_ui_test\logs\info-2022-08-11-10.log:requests_utils.py:21 正在发送get请求，请求地址：http://ul-wallet.funstars.com.cn/bonusRecords/balance/0x32320115173e865Db96e52e0ece5Bf791deaEb75/0x20511bfddb061014ca8839935580c31bdd111c30， 请求参数None
+INFO    2022-08-11 10:25:47,213D:\test_msg\api_ui_test\logs\info-2022-08-11-10.log:requests_utils.py:21 正在发送get请求，请求地址：https://web3.funstars.com.cn/api/address/0x20511bfddb061014ca8839935580c31bdd111c30/1/all， 请求参数None
+INFO    2022-08-11 10:25:47,594D:\test_msg\api_ui_test\logs\info-2022-08-11-10.log:test_lml.py:33 游览器查询余额807683130.458870，链查询余额807683130.458870
+INFO    2022-08-11 10:26:32,657D:\test_msg\api_ui_test\logs\info-2022-08-11-10.log:run.py:7 
+        杜甫-------------------------------------------------登高
+        The wind was swift and high, and the apes crowed very sad, and the birds were circling in the white sand of the white sand.
+        The endless trees rustle the fallen leaves, the Yangtze river is not expected to roll in the Pentium.
+        Sad to Li autumn scenery, the perennial wanderer, life in the disease ridden today alone on the high platform.
+        After going through hardships and bitter hatred, the white hair was full of hair, and the waning of the wine glass cup was suspended.
+        
+        2102-4131
+
+        开始执行api_ui_test项目...
+        
+        
+INFO    2022-08-11 10:26:33,010D:\test_msg\api_ui_test\logs\info-2022-08-11-10.log:requests_utils.py:21 正在发送get请求，请求地址：http://ul-wallet.funstars.com.cn/bonusRecords/balance/0x32320115173e865Db96e52e0ece5Bf791deaEb75/0xb304487ac5d6ba6e56429c967faf4989c20599aa， 请求参数None
+INFO    2022-08-11 10:26:33,075D:\test_msg\api_ui_test\logs\info-2022-08-11-10.log:requests_utils.py:21 正在发送get请求，请求地址：https://web3.funstars.com.cn/api/address/0xb304487ac5d6ba6e56429c967faf4989c20599aa/1/all， 请求参数None
+INFO    2022-08-11 10:26:33,237D:\test_msg\api_ui_test\logs\info-2022-08-11-10.log:test_lml.py:33 游览器查询余额2247999.611625，链查询余额2247999.611625
+INFO    2022-08-11 10:26:33,237D:\test_msg\api_ui_test\logs\info-2022-08-11-10.log:requests_utils.py:21 正在发送get请求，请求地址：http://ul-wallet.funstars.com.cn/bonusRecords/balance/0x32320115173e865Db96e52e0ece5Bf791deaEb75/0x20511bfddb061014ca8839935580c31bdd111c30， 请求参数None
+INFO    2022-08-11 10:26:33,287D:\test_msg\api_ui_test\logs\info-2022-08-11-10.log:requests_utils.py:21 正在发送get请求，请求地址：https://web3.funstars.com.cn/api/address/0x20511bfddb061014ca8839935580c31bdd111c30/1/all， 请求参数None
+INFO    2022-08-11 10:26:33,647D:\test_msg\api_ui_test\logs\info-2022-08-11-10.log:test_lml.py:33 游览器查询余额807683130.458870，链查询余额807683130.458870
+INFO    2022-08-11 10:35:25,501D:\test_msg\api_ui_test\logs\info-2022-08-11-10.log:run.py:7 
+        杜甫-------------------------------------------------登高
+        The wind was swift and high, and the apes crowed very sad, and the birds were circling in the white sand of the white sand.
+        The endless trees rustle the fallen leaves, the Yangtze river is not expected to roll in the Pentium.
+        Sad to Li autumn scenery, the perennial wanderer, life in the disease ridden today alone on the high platform.
+        After going through hardships and bitter hatred, the white hair was full of hair, and the waning of the wine glass cup was suspended.
+        
+        2102-4131
+
+        开始执行api_ui_test项目...
+        
+        
+INFO    2022-08-11 10:35:25,944D:\test_msg\api_ui_test\logs\info-2022-08-11-10.log:requests_utils.py:21 正在发送get请求，请求地址：http://ul-wallet.funstars.com.cn/bonusRecords/balance/0x32320115173e865Db96e52e0ece5Bf791deaEb75/0xb304487ac5d6ba6e56429c967faf4989c20599aa， 请求参数None
+INFO    2022-08-11 10:35:26,039D:\test_msg\api_ui_test\logs\info-2022-08-11-10.log:requests_utils.py:21 正在发送get请求，请求地址：https://web3.funstars.com.cn/api/address/0xb304487ac5d6ba6e56429c967faf4989c20599aa/1/all， 请求参数None
+INFO    2022-08-11 10:35:26,221D:\test_msg\api_ui_test\logs\info-2022-08-11-10.log:test_lml.py:33 游览器查询余额2247999.611625，链查询余额2247999.611625
+INFO    2022-08-11 10:35:26,224D:\test_msg\api_ui_test\logs\info-2022-08-11-10.log:requests_utils.py:21 正在发送get请求，请求地址：http://ul-wallet.funstars.com.cn/bonusRecords/balance/0x32320115173e865Db96e52e0ece5Bf791deaEb75/0x20511bfddb061014ca8839935580c31bdd111c30， 请求参数None
+INFO    2022-08-11 10:35:26,276D:\test_msg\api_ui_test\logs\info-2022-08-11-10.log:requests_utils.py:21 正在发送get请求，请求地址：https://web3.funstars.com.cn/api/address/0x20511bfddb061014ca8839935580c31bdd111c30/1/all， 请求参数None
+INFO    2022-08-11 10:35:26,672D:\test_msg\api_ui_test\logs\info-2022-08-11-10.log:test_lml.py:33 游览器查询余额807683130.458870，链查询余额807683130.458870

@@ -1,0 +1,99 @@
+INFO    2022-08-16 20:19:29,561D:\test_msg\api_ui_test\logs\info-2022-08-16-20.log:requests_utils.py:24 正在发送POST请求，请求地址：http://192.168.1.198:9900/api-uaa/oauth/token?email=11@qq.com&password=123456&grant_type=email_password&account_type=org， 请求参数None
+INFO    2022-08-16 20:19:44,813D:\test_msg\api_ui_test\logs\info-2022-08-16-20.log:requests_utils.py:24 正在发送POST请求，请求地址：http://192.168.1.198:9900/api-uaa/oauth/token?email=11@qq.com&password=123456&grant_type=email_password&account_type=org， 请求参数None
+INFO    2022-08-16 20:22:10,998D:\test_msg\api_ui_test\logs\info-2022-08-16-20.log:requests_utils.py:24 正在发送POST请求，请求地址：http://192.168.1.198:9900/api-uaa/oauth/token?email=11@qq.com&password=123456&grant_type=email_password&account_type=org， 请求参数None
+INFO    2022-08-16 20:33:23,023D:\test_msg\api_ui_test\logs\info-2022-08-16-20.log:requests_utils.py:24 正在发送POST请求，请求地址：http://192.168.1.198:9900/api-uaa/oauth/token?email=11@qq.com&password=123456&grant_type=email_password&account_type=org， 请求参数None
+INFO    2022-08-16 20:33:44,124D:\test_msg\api_ui_test\logs\info-2022-08-16-20.log:requests_utils.py:24 正在发送POST请求，请求地址：http://192.168.1.198:9900/api-uaa/oauth/token?email=11@qq.com&password=123456&grant_type=email_password&account_type=org， 请求参数None
+INFO    2022-08-16 20:37:53,206D:\test_msg\api_ui_test\logs\info-2022-08-16-20.log:requests_utils.py:24 正在发送POST请求，请求地址：http://192.168.1.198:9900/api-uaa/oauth/token?email=11@qq.com&password=123456&grant_type=email_password&account_type=org， 请求参数None
+INFO    2022-08-16 20:38:12,185D:\test_msg\api_ui_test\logs\info-2022-08-16-20.log:requests_utils.py:24 正在发送POST请求，请求地址：http://192.168.1.198:9900/api-uaa/oauth/token?email=11@qq.com&password=123456&grant_type=email_password&account_type=org， 请求参数None
+INFO    2022-08-16 20:38:21,886D:\test_msg\api_ui_test\logs\info-2022-08-16-20.log:requests_utils.py:24 正在发送POST请求，请求地址：http://192.168.1.198:9900/api-uaa/oauth/token?email=11@qq.com&password=123456&grant_type=email_password&account_type=org， 请求参数None
+INFO    2022-08-16 20:38:39,323D:\test_msg\api_ui_test\logs\info-2022-08-16-20.log:requests_utils.py:24 正在发送POST请求，请求地址：http://192.168.1.198:9900/api-uaa/oauth/token?email=11@qq.com&password=123456&grant_type=email_password&account_type=org， 请求参数None
+INFO    2022-08-16 20:39:04,024D:\test_msg\api_ui_test\logs\info-2022-08-16-20.log:requests_utils.py:24 正在发送POST请求，请求地址：http://192.168.1.198:9900/api-uaa/oauth/token?email=11@qq.com&password=123456&grant_type=email_password&account_type=org， 请求参数None
+INFO    2022-08-16 20:39:04,260D:\test_msg\api_ui_test\logs\info-2022-08-16-20.log:requests_utils.py:24 正在发送POST请求，请求地址：http://192.168.1.198:9900/api-manager/platform/digital， 请求参数{"email": "761791958@qq.com", "headPortrait": "1", "id": 3, "nickName": "111111111111111111111111", "remark": "\u521b\u5efa\u64cd\u4f5c"}
+INFO    2022-08-16 20:41:22,796D:\test_msg\api_ui_test\logs\info-2022-08-16-20.log:requests_utils.py:24 正在发送POST请求，请求地址：http://192.168.1.198:9900/api-uaa/oauth/token?email=11@qq.com&password=123456&grant_type=email_password&account_type=org， 请求参数None
+INFO    2022-08-16 20:41:23,029D:\test_msg\api_ui_test\logs\info-2022-08-16-20.log:requests_utils.py:24 正在发送POST请求，请求地址：http://192.168.1.198:9900/api-manager/platform/digital， 请求参数{"email": "761791958@qq.com", "headPortrait": "1", "id": 3, "nickName": "111111111111111111111111", "remark": "\u521b\u5efa\u64cd\u4f5c"}
+INFO    2022-08-16 20:41:31,672D:\test_msg\api_ui_test\logs\info-2022-08-16-20.log:requests_utils.py:24 正在发送POST请求，请求地址：http://192.168.1.198:9900/api-uaa/oauth/token?email=11@qq.com&password=123456&grant_type=email_password&account_type=org， 请求参数None
+INFO    2022-08-16 20:41:31,907D:\test_msg\api_ui_test\logs\info-2022-08-16-20.log:requests_utils.py:24 正在发送POST请求，请求地址：http://192.168.1.198:9900/api-manager/platform/digital， 请求参数{"email": "761791958@qq.com", "headPortrait": "1", "id": 3, "nickName": "111111111111111111111111", "remark": "\u521b\u5efa\u64cd\u4f5c"}
+INFO    2022-08-16 20:41:53,041D:\test_msg\api_ui_test\logs\info-2022-08-16-20.log:run.py:7 
+        杜甫-------------------------------------------------登高
+        The wind was swift and high, and the apes crowed very sad, and the birds were circling in the white sand of the white sand.
+        The endless trees rustle the fallen leaves, the Yangtze river is not expected to roll in the Pentium.
+        Sad to Li autumn scenery, the perennial wanderer, life in the disease ridden today alone on the high platform.
+        After going through hardships and bitter hatred, the white hair was full of hair, and the waning of the wine glass cup was suspended.
+        
+        2102-4131
+
+        开始执行api_ui_test项目...
+        
+        
+INFO    2022-08-16 20:41:53,487D:\test_msg\api_ui_test\logs\info-2022-08-16-20.log:requests_utils.py:21 正在发送get请求，请求地址：http://ul-wallet.funstars.com.cn/bonusRecords/balance/0x32320115173e865Db96e52e0ece5Bf791deaEb75/0xb304487ac5d6ba6e56429c967faf4989c20599aa， 请求参数None
+INFO    2022-08-16 20:41:53,602D:\test_msg\api_ui_test\logs\info-2022-08-16-20.log:requests_utils.py:21 正在发送get请求，请求地址：https://web3.funstars.com.cn/api/address/0xb304487ac5d6ba6e56429c967faf4989c20599aa/1/all， 请求参数None
+INFO    2022-08-16 20:41:53,780D:\test_msg\api_ui_test\logs\info-2022-08-16-20.log:test_lml.py:27 游览器查询余额2247999.611625，链查询余额2247999.611625
+INFO    2022-08-16 20:41:53,783D:\test_msg\api_ui_test\logs\info-2022-08-16-20.log:requests_utils.py:21 正在发送get请求，请求地址：http://ul-wallet.funstars.com.cn/bonusRecords/balance/0x32320115173e865Db96e52e0ece5Bf791deaEb75/0x20511bfddb061014ca8839935580c31bdd111c30， 请求参数None
+INFO    2022-08-16 20:41:53,834D:\test_msg\api_ui_test\logs\info-2022-08-16-20.log:requests_utils.py:21 正在发送get请求，请求地址：https://web3.funstars.com.cn/api/address/0x20511bfddb061014ca8839935580c31bdd111c30/1/all， 请求参数None
+INFO    2022-08-16 20:41:54,239D:\test_msg\api_ui_test\logs\info-2022-08-16-20.log:test_lml.py:27 游览器查询余额807683039.748470，链查询余额807683039.748470
+INFO    2022-08-16 20:41:54,245D:\test_msg\api_ui_test\logs\info-2022-08-16-20.log:requests_utils.py:24 正在发送POST请求，请求地址：http://192.168.1.198:9900/api-uaa/oauth/token?email=11@qq.com&password=123456&grant_type=email_password&account_type=org， 请求参数None
+INFO    2022-08-16 20:41:54,474D:\test_msg\api_ui_test\logs\info-2022-08-16-20.log:requests_utils.py:24 正在发送POST请求，请求地址：http://192.168.1.198:9900/api-manager/platform/digital， 请求参数{"email": "761791958@qq.com", "headPortrait": "1", "id": 3, "nickName": "111111111111111111111111", "remark": "\u521b\u5efa\u64cd\u4f5c"}
+INFO    2022-08-16 20:43:21,451D:\test_msg\api_ui_test\logs\info-2022-08-16-20.log:run.py:7 
+        杜甫-------------------------------------------------登高
+        The wind was swift and high, and the apes crowed very sad, and the birds were circling in the white sand of the white sand.
+        The endless trees rustle the fallen leaves, the Yangtze river is not expected to roll in the Pentium.
+        Sad to Li autumn scenery, the perennial wanderer, life in the disease ridden today alone on the high platform.
+        After going through hardships and bitter hatred, the white hair was full of hair, and the waning of the wine glass cup was suspended.
+        
+        2102-4131
+
+        开始执行api_ui_test项目...
+        
+        
+INFO    2022-08-16 20:43:21,875D:\test_msg\api_ui_test\logs\info-2022-08-16-20.log:requests_utils.py:21 正在发送get请求，请求地址：http://ul-wallet.funstars.com.cn/bonusRecords/balance/0x32320115173e865Db96e52e0ece5Bf791deaEb75/0xb304487ac5d6ba6e56429c967faf4989c20599aa， 请求参数None
+INFO    2022-08-16 20:43:21,931D:\test_msg\api_ui_test\logs\info-2022-08-16-20.log:requests_utils.py:21 正在发送get请求，请求地址：https://web3.funstars.com.cn/api/address/0xb304487ac5d6ba6e56429c967faf4989c20599aa/1/all， 请求参数None
+INFO    2022-08-16 20:43:22,059D:\test_msg\api_ui_test\logs\info-2022-08-16-20.log:test_lml.py:27 游览器查询余额2247999.611625，链查询余额2247999.611625
+INFO    2022-08-16 20:43:22,062D:\test_msg\api_ui_test\logs\info-2022-08-16-20.log:requests_utils.py:21 正在发送get请求，请求地址：http://ul-wallet.funstars.com.cn/bonusRecords/balance/0x32320115173e865Db96e52e0ece5Bf791deaEb75/0x20511bfddb061014ca8839935580c31bdd111c30， 请求参数None
+INFO    2022-08-16 20:43:22,131D:\test_msg\api_ui_test\logs\info-2022-08-16-20.log:requests_utils.py:21 正在发送get请求，请求地址：https://web3.funstars.com.cn/api/address/0x20511bfddb061014ca8839935580c31bdd111c30/1/all， 请求参数None
+INFO    2022-08-16 20:43:22,531D:\test_msg\api_ui_test\logs\info-2022-08-16-20.log:test_lml.py:27 游览器查询余额807683039.748470，链查询余额807683039.748470
+INFO    2022-08-16 20:43:22,537D:\test_msg\api_ui_test\logs\info-2022-08-16-20.log:requests_utils.py:24 正在发送POST请求，请求地址：http://192.168.1.198:9900/api-uaa/oauth/token?email=11@qq.com&password=123456&grant_type=email_password&account_type=org， 请求参数None
+INFO    2022-08-16 20:43:22,767D:\test_msg\api_ui_test\logs\info-2022-08-16-20.log:requests_utils.py:24 正在发送POST请求，请求地址：http://192.168.1.198:9900/api-manager/platform/digital， 请求参数{"email": "761791958@qq.com", "headPortrait": "1", "id": 3, "nickName": "111111111111111111111111", "remark": "\u521b\u5efa\u64cd\u4f5c"}
+INFO    2022-08-16 20:44:43,561D:\test_msg\api_ui_test\logs\info-2022-08-16-20.log:run.py:7 
+        杜甫-------------------------------------------------登高
+        The wind was swift and high, and the apes crowed very sad, and the birds were circling in the white sand of the white sand.
+        The endless trees rustle the fallen leaves, the Yangtze river is not expected to roll in the Pentium.
+        Sad to Li autumn scenery, the perennial wanderer, life in the disease ridden today alone on the high platform.
+        After going through hardships and bitter hatred, the white hair was full of hair, and the waning of the wine glass cup was suspended.
+        
+        2102-4131
+
+        开始执行api_ui_test项目...
+        
+        
+INFO    2022-08-16 20:44:43,987D:\test_msg\api_ui_test\logs\info-2022-08-16-20.log:requests_utils.py:21 正在发送get请求，请求地址：http://ul-wallet.funstars.com.cn/bonusRecords/balance/0x32320115173e865Db96e52e0ece5Bf791deaEb75/0xb304487ac5d6ba6e56429c967faf4989c20599aa， 请求参数None
+INFO    2022-08-16 20:44:44,042D:\test_msg\api_ui_test\logs\info-2022-08-16-20.log:requests_utils.py:21 正在发送get请求，请求地址：https://web3.funstars.com.cn/api/address/0xb304487ac5d6ba6e56429c967faf4989c20599aa/1/all， 请求参数None
+INFO    2022-08-16 20:44:44,193D:\test_msg\api_ui_test\logs\info-2022-08-16-20.log:test_lml.py:27 游览器查询余额2247999.611625，链查询余额2247999.611625
+INFO    2022-08-16 20:44:44,196D:\test_msg\api_ui_test\logs\info-2022-08-16-20.log:requests_utils.py:21 正在发送get请求，请求地址：http://ul-wallet.funstars.com.cn/bonusRecords/balance/0x32320115173e865Db96e52e0ece5Bf791deaEb75/0x20511bfddb061014ca8839935580c31bdd111c30， 请求参数None
+INFO    2022-08-16 20:44:44,247D:\test_msg\api_ui_test\logs\info-2022-08-16-20.log:requests_utils.py:21 正在发送get请求，请求地址：https://web3.funstars.com.cn/api/address/0x20511bfddb061014ca8839935580c31bdd111c30/1/all， 请求参数None
+INFO    2022-08-16 20:44:44,673D:\test_msg\api_ui_test\logs\info-2022-08-16-20.log:test_lml.py:27 游览器查询余额807683039.748470，链查询余额807683039.748470
+INFO    2022-08-16 20:44:44,679D:\test_msg\api_ui_test\logs\info-2022-08-16-20.log:requests_utils.py:24 正在发送POST请求，请求地址：http://192.168.1.198:9900/api-uaa/oauth/token?email=11@qq.com&password=123456&grant_type=email_password&account_type=org， 请求参数None
+INFO    2022-08-16 20:44:44,921D:\test_msg\api_ui_test\logs\info-2022-08-16-20.log:requests_utils.py:24 正在发送POST请求，请求地址：http://192.168.1.198:9900/api-manager/platform/digital， 请求参数{"email": "761791958@qq.com", "headPortrait": "1", "id": 3, "nickName": "111111111111111111111111", "remark": "\u521b\u5efa\u64cd\u4f5c"}
+INFO    2022-08-16 20:46:33,906D:\test_msg\api_ui_test\logs\info-2022-08-16-20.log:requests_utils.py:24 正在发送POST请求，请求地址：http://192.168.1.198:9900/api-uaa/oauth/token?email=11@qq.com&password=123456&grant_type=email_password&account_type=org， 请求参数None
+INFO    2022-08-16 20:46:34,145D:\test_msg\api_ui_test\logs\info-2022-08-16-20.log:requests_utils.py:24 正在发送POST请求，请求地址：http://192.168.1.198:9900/api-manager/platform/digital， 请求参数{"email": "11@qq.com", "headPortrait": "1", "id": 3, "nickName": "111111111111111111111111", "remark": "\u521b\u5efa\u64cd\u4f5c"}
+INFO    2022-08-16 20:46:40,001D:\test_msg\api_ui_test\logs\info-2022-08-16-20.log:run.py:7 
+        杜甫-------------------------------------------------登高
+        The wind was swift and high, and the apes crowed very sad, and the birds were circling in the white sand of the white sand.
+        The endless trees rustle the fallen leaves, the Yangtze river is not expected to roll in the Pentium.
+        Sad to Li autumn scenery, the perennial wanderer, life in the disease ridden today alone on the high platform.
+        After going through hardships and bitter hatred, the white hair was full of hair, and the waning of the wine glass cup was suspended.
+        
+        2102-4131
+
+        开始执行api_ui_test项目...
+        
+        
+INFO    2022-08-16 20:46:40,423D:\test_msg\api_ui_test\logs\info-2022-08-16-20.log:requests_utils.py:21 正在发送get请求，请求地址：http://ul-wallet.funstars.com.cn/bonusRecords/balance/0x32320115173e865Db96e52e0ece5Bf791deaEb75/0xb304487ac5d6ba6e56429c967faf4989c20599aa， 请求参数None
+INFO    2022-08-16 20:46:40,475D:\test_msg\api_ui_test\logs\info-2022-08-16-20.log:requests_utils.py:21 正在发送get请求，请求地址：https://web3.funstars.com.cn/api/address/0xb304487ac5d6ba6e56429c967faf4989c20599aa/1/all， 请求参数None
+INFO    2022-08-16 20:46:40,611D:\test_msg\api_ui_test\logs\info-2022-08-16-20.log:test_lml.py:27 游览器查询余额2247999.611625，链查询余额2247999.611625
+INFO    2022-08-16 20:46:40,613D:\test_msg\api_ui_test\logs\info-2022-08-16-20.log:requests_utils.py:21 正在发送get请求，请求地址：http://ul-wallet.funstars.com.cn/bonusRecords/balance/0x32320115173e865Db96e52e0ece5Bf791deaEb75/0x20511bfddb061014ca8839935580c31bdd111c30， 请求参数None
+INFO    2022-08-16 20:46:40,661D:\test_msg\api_ui_test\logs\info-2022-08-16-20.log:requests_utils.py:21 正在发送get请求，请求地址：https://web3.funstars.com.cn/api/address/0x20511bfddb061014ca8839935580c31bdd111c30/1/all， 请求参数None
+INFO    2022-08-16 20:46:41,063D:\test_msg\api_ui_test\logs\info-2022-08-16-20.log:test_lml.py:27 游览器查询余额807683039.748470，链查询余额807683039.748470
+INFO    2022-08-16 20:46:41,070D:\test_msg\api_ui_test\logs\info-2022-08-16-20.log:requests_utils.py:24 正在发送POST请求，请求地址：http://192.168.1.198:9900/api-uaa/oauth/token?email=11@qq.com&password=123456&grant_type=email_password&account_type=org， 请求参数None
+INFO    2022-08-16 20:46:41,322D:\test_msg\api_ui_test\logs\info-2022-08-16-20.log:requests_utils.py:24 正在发送POST请求，请求地址：http://192.168.1.198:9900/api-manager/platform/digital， 请求参数{"email": "11@qq.com", "headPortrait": "1", "id": 3, "nickName": "111111111111111111111111", "remark": "\u521b\u5efa\u64cd\u4f5c"}
+INFO    2022-08-16 20:50:54,294D:\test_msg\api_ui_test\logs\info-2022-08-16-20.log:requests_utils.py:24 正在发送POST请求，请求地址：http://192.168.1.198:9900/api-uaa/oauth/token?email=11@qq.com&password=123456&grant_type=email_password&account_type=org， 请求参数None
+INFO    2022-08-16 20:50:54,528D:\test_msg\api_ui_test\logs\info-2022-08-16-20.log:requests_utils.py:24 正在发送POST请求，请求地址：http://192.168.1.198:9900/api-manager/platform/digital， 请求参数{"email": "11@qq.com", "headPortrait": "1", "id": 3, "nickName": "111111111111111111111111", "remark": "\u521b\u5efa\u64cd\u4f5c"}

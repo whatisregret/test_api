@@ -1,0 +1,2 @@
+INFO     D:\test_msg\api_ui_test\logs\info-2022-08-16-20.log:requests_utils.py:24 正在发送POST请求，请求地址：http://192.168.1.198:9900/api-uaa/oauth/token?email=11@qq.com&password=123456&grant_type=email_password&account_type=org， 请求参数None
+INFO     D:\test_msg\api_ui_test\logs\info-2022-08-16-20.log:requests_utils.py:24 正在发送POST请求，请求地址：http://192.168.1.198:9900/api-manager/platform/digital， 请求参数{"email": "11@qq.com", "headPortrait": "1", "id": 3, "nickName": "111111111111111111111111", "remark": "\u521b\u5efa\u64cd\u4f5c"}

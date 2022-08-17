@@ -1,0 +1,126 @@
+{
+  "uid" : "22dd45fc4405daf2",
+  "name" : "test_set_platform",
+  "fullName" : "testcase.openapi_case.test_openapi_set_app.TestLogin_info#test_set_platform",
+  "historyId" : "cf917d639be0c5c872b7da0b742dff4c",
+  "time" : {
+    "start" : 1660654001323,
+    "stop" : 1660654001477,
+    "duration" : 154
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1660654000344,
+      "stop" : 1660654000423,
+      "duration" : 79
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "_xunit_setup_class_fixture_TestLogin_info",
+    "time" : {
+      "start" : 1660654001070,
+      "stop" : 1660654001323,
+      "duration" : 253
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "e02e9104bbecc0fd",
+      "name" : "log",
+      "source" : "e02e9104bbecc0fd.txt",
+      "type" : "text/plain",
+      "size" : 585
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "_xunit_setup_class_fixture_TestLogin_info::0",
+    "time" : {
+      "start" : 1660654001478,
+      "stop" : 1660654001478,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "创建平台数字身份"
+  }, {
+    "name" : "story",
+    "value" : "创建平台数字身份"
+  }, {
+    "name" : "epic",
+    "value" : "openapi"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase.openapi_case"
+  }, {
+    "name" : "suite",
+    "value" : "test_openapi_set_app"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestLogin_info"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-SF2S1KI"
+  }, {
+    "name" : "thread",
+    "value" : "12680-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.openapi_case.test_openapi_set_app"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "22dd45fc4405daf2.json",
+  "parameterValues" : [ ]
+}

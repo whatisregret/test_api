@@ -1,0 +1,99 @@
+{
+  "uid" : "78fa54d4d4218db1",
+  "name" : "test_address[0xb304487ac5d6ba6e56429c967faf4989c20599aa]",
+  "fullName" : "testcase.lmlylq_case.test_lml.TestLML#test_address",
+  "historyId" : "a505aee7c1a3e2828d488ab64bf8a0f5",
+  "time" : {
+    "start" : 1660654000423,
+    "stop" : 1660654000612,
+    "duration" : 189
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1660654000344,
+      "stop" : 1660654000423,
+      "duration" : 79
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "dc74af4dcbf0bbe2",
+      "name" : "log",
+      "source" : "dc74af4dcbf0bbe2.txt",
+      "type" : "text/plain",
+      "size" : 655
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "epic",
+    "value" : "联盟链"
+  }, {
+    "name" : "story",
+    "value" : "联盟链链上账户余额与页面接口余额对比"
+  }, {
+    "name" : "feature",
+    "value" : "联盟链数据比较"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase.lmlylq_case"
+  }, {
+    "name" : "suite",
+    "value" : "test_lml"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestLML"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-SF2S1KI"
+  }, {
+    "name" : "thread",
+    "value" : "12680-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.lmlylq_case.test_lml"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "address_s",
+    "value" : "'0xb304487ac5d6ba6e56429c967faf4989c20599aa'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "78fa54d4d4218db1.json",
+  "parameterValues" : [ "'0xb304487ac5d6ba6e56429c967faf4989c20599aa'" ]
+}

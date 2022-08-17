@@ -1,0 +1,3 @@
+INFO     D:\test_msg\api_ui_test\logs\info-2022-08-16-20.log:requests_utils.py:21 正在发送get请求，请求地址：http://ul-wallet.funstars.com.cn/bonusRecords/balance/0x32320115173e865Db96e52e0ece5Bf791deaEb75/0xb304487ac5d6ba6e56429c967faf4989c20599aa， 请求参数None
+INFO     D:\test_msg\api_ui_test\logs\info-2022-08-16-20.log:requests_utils.py:21 正在发送get请求，请求地址：https://web3.funstars.com.cn/api/address/0xb304487ac5d6ba6e56429c967faf4989c20599aa/1/all， 请求参数None
+INFO     D:\test_msg\api_ui_test\logs\info-2022-08-16-20.log:test_lml.py:27 游览器查询余额2247999.611625，链查询余额2247999.611625

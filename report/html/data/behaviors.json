@@ -1,0 +1,140 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "联盟链",
+    "children" : [ {
+      "name" : "联盟链数据比较",
+      "children" : [ {
+        "name" : "联盟链链上账户余额与页面接口余额对比",
+        "children" : [ {
+          "name" : "test_address[0xb304487ac5d6ba6e56429c967faf4989c20599aa]",
+          "uid" : "78fa54d4d4218db1",
+          "parentUid" : "0da8bdea218f70028e6041b233736a8a",
+          "status" : "passed",
+          "time" : {
+            "start" : 1660654000423,
+            "stop" : 1660654000612,
+            "duration" : 189
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'0xb304487ac5d6ba6e56429c967faf4989c20599aa'" ]
+        }, {
+          "name" : "test_address[0x20511bfddb061014ca8839935580c31bdd111c30]",
+          "uid" : "44284a111d54ae4a",
+          "parentUid" : "0da8bdea218f70028e6041b233736a8a",
+          "status" : "passed",
+          "time" : {
+            "start" : 1660654000614,
+            "stop" : 1660654001064,
+            "duration" : 450
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'0x20511bfddb061014ca8839935580c31bdd111c30'" ]
+        } ],
+        "uid" : "0da8bdea218f70028e6041b233736a8a"
+      } ],
+      "uid" : "a72217e3d720095690d065bf44901dea"
+    } ],
+    "uid" : "55f3e5e1096258d856c4631917df3820"
+  }, {
+    "name" : "openapi",
+    "children" : [ {
+      "name" : "用户登录操作",
+      "children" : [ {
+        "name" : "正常用户登录",
+        "children" : [ {
+          "name" : "test_user_01",
+          "uid" : "2e7ba2940d0de44e",
+          "parentUid" : "a90464aa4f42eceee8a38b14cfa3e4c5",
+          "status" : "passed",
+          "time" : {
+            "start" : 1660654001066,
+            "stop" : 1660654001066,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "a90464aa4f42eceee8a38b14cfa3e4c5"
+      }, {
+        "name" : "邮箱错误验证错误，密码正常",
+        "children" : [ {
+          "name" : "test_not_email_01",
+          "uid" : "d6a57a6014e1f29",
+          "parentUid" : "b626699bd8912a929ec3980b1c3a5919",
+          "status" : "passed",
+          "time" : {
+            "start" : 1660654001067,
+            "stop" : 1660654001067,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "b626699bd8912a929ec3980b1c3a5919"
+      }, {
+        "name" : "邮箱正确，密码错误",
+        "children" : [ {
+          "name" : "test_not_pwd_01",
+          "uid" : "5a4a3536570ce820",
+          "parentUid" : "ab86f10cf33df24436f2bf2e2d6f24f3",
+          "status" : "passed",
+          "time" : {
+            "start" : 1660654001068,
+            "stop" : 1660654001068,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "ab86f10cf33df24436f2bf2e2d6f24f3"
+      } ],
+      "uid" : "c59bda6e5af88d25c1894f5c507e6c99"
+    }, {
+      "name" : "创建平台数字身份",
+      "children" : [ {
+        "name" : "创建平台数字身份",
+        "children" : [ {
+          "name" : "test_set_platform",
+          "uid" : "22dd45fc4405daf2",
+          "parentUid" : "335f23b1d46df05fd293c77b6caccab0",
+          "status" : "passed",
+          "time" : {
+            "start" : 1660654001323,
+            "stop" : 1660654001477,
+            "duration" : 154
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "335f23b1d46df05fd293c77b6caccab0"
+      }, {
+        "name" : "接入用户数据创建用户数字身份",
+        "children" : [ {
+          "name" : "test_user_to_wallet_01",
+          "uid" : "829ce0881bb44b44",
+          "parentUid" : "14c136f83527913f02ded958d8fec40f",
+          "status" : "passed",
+          "time" : {
+            "start" : 1660654001478,
+            "stop" : 1660654001478,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "14c136f83527913f02ded958d8fec40f"
+      } ],
+      "uid" : "7e78c7564b2ef8716bef8ec82645da67"
+    } ],
+    "uid" : "e2eea14c6a9310e8d10f883155bc3f67"
+  } ]
+}

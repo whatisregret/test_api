@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Aug 16 20:46:41 CST 2022","Tue Aug 16 20:46:41 CST 2022","0","testcase.openapi_case","test_openapi_set_app","TestLogin_info","","","test_user_to_wallet_01",""
+"passed","Tue Aug 16 20:46:40 CST 2022","Tue Aug 16 20:46:41 CST 2022","450","testcase.lmlylq_case","test_lml","TestLML","","","test_address[0x20511bfddb061014ca8839935580c31bdd111c30]",""
+"passed","Tue Aug 16 20:46:41 CST 2022","Tue Aug 16 20:46:41 CST 2022","0","testcase.openapi_case","test_openapi_login","TestOpen","","","test_not_email_01",""
+"passed","Tue Aug 16 20:46:41 CST 2022","Tue Aug 16 20:46:41 CST 2022","0","testcase.openapi_case","test_openapi_login","TestOpen","","","test_not_pwd_01",""
+"passed","Tue Aug 16 20:46:41 CST 2022","Tue Aug 16 20:46:41 CST 2022","0","testcase.openapi_case","test_openapi_login","TestOpen","","","test_user_01",""
+"passed","Tue Aug 16 20:46:41 CST 2022","Tue Aug 16 20:46:41 CST 2022","154","testcase.openapi_case","test_openapi_set_app","TestLogin_info","","","test_set_platform",""
+"passed","Tue Aug 16 20:46:40 CST 2022","Tue Aug 16 20:46:40 CST 2022","189","testcase.lmlylq_case","test_lml","TestLML","","","test_address[0xb304487ac5d6ba6e56429c967faf4989c20599aa]",""

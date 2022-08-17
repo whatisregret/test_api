@@ -1,0 +1,71 @@
+[ {
+  "uid" : "22dd45fc4405daf2",
+  "name" : "test_set_platform",
+  "time" : {
+    "start" : 1660654001323,
+    "stop" : 1660654001477,
+    "duration" : 154
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "44284a111d54ae4a",
+  "name" : "test_address[0x20511bfddb061014ca8839935580c31bdd111c30]",
+  "time" : {
+    "start" : 1660654000614,
+    "stop" : 1660654001064,
+    "duration" : 450
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5a4a3536570ce820",
+  "name" : "test_not_pwd_01",
+  "time" : {
+    "start" : 1660654001068,
+    "stop" : 1660654001068,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d6a57a6014e1f29",
+  "name" : "test_not_email_01",
+  "time" : {
+    "start" : 1660654001067,
+    "stop" : 1660654001067,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "829ce0881bb44b44",
+  "name" : "test_user_to_wallet_01",
+  "time" : {
+    "start" : 1660654001478,
+    "stop" : 1660654001478,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2e7ba2940d0de44e",
+  "name" : "test_user_01",
+  "time" : {
+    "start" : 1660654001066,
+    "stop" : 1660654001066,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "78fa54d4d4218db1",
+  "name" : "test_address[0xb304487ac5d6ba6e56429c967faf4989c20599aa]",
+  "time" : {
+    "start" : 1660654000423,
+    "stop" : 1660654000612,
+    "duration" : 189
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

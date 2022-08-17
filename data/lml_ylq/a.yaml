@@ -1,0 +1,10 @@
+# 公共参数
+case_common:
+  allureEpic: 联盟链
+  allureFeature: 联盟链数据比较
+  allureStory: 联盟链链上账户余额与页面接口余额对比
+
+common_data:
+  headers: {"appId": "zxb604537f086343f9b02784d9ccba1fde","secret": "$2a$10$HKI97xPZf0eVVC0iVx85XO75/cPrgrtZUbRavwcGC0vcMbZZtPDHe"}
+
+

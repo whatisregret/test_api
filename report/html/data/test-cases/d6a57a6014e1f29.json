@@ -1,0 +1,80 @@
+{
+  "uid" : "d6a57a6014e1f29",
+  "name" : "test_not_email_01",
+  "fullName" : "testcase.openapi_case.test_openapi_login.TestOpen#test_not_email_01",
+  "historyId" : "c2fc270e6703188e500e6305c67dd587",
+  "time" : {
+    "start" : 1660654001067,
+    "stop" : 1660654001067,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1660654000344,
+      "stop" : 1660654000423,
+      "duration" : 79
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "邮箱错误验证错误，密码正常"
+  }, {
+    "name" : "epic",
+    "value" : "openapi"
+  }, {
+    "name" : "feature",
+    "value" : "用户登录操作"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase.openapi_case"
+  }, {
+    "name" : "suite",
+    "value" : "test_openapi_login"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestOpen"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-SF2S1KI"
+  }, {
+    "name" : "thread",
+    "value" : "12680-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.openapi_case.test_openapi_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d6a57a6014e1f29.json",
+  "parameterValues" : [ ]
+}
